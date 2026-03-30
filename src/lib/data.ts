@@ -915,14 +915,13 @@ export const announcementsData = [
   },
 ];
 
-
 // YOU SHOULD CHANGE THE DATES OF THE EVENTS TO THE CURRENT DATE TO SEE THE EVENTS ON THE CALENDAR
 export const calendarEvents = [
   {
     title: "Math",
     allDay: false,
-    start: new Date(2024, 7, 12, 8, 0),
-    end: new Date(2024, 7, 12, 8, 45),
+    start: new Date(2026, 3, 31, 8, 0),
+    end: new Date(2026, 3, 31, 8, 45),
   },
   {
     title: "English",
@@ -982,8 +981,8 @@ export const calendarEvents = [
   {
     title: "Math",
     allDay: false,
-    start: new Date(2024, 7, 14, 8, 0),
-    end: new Date(2024, 7, 14, 8, 45),
+    start: new Date(2026, 7, 14, 8, 0),
+    end: new Date(2026, 7, 14, 8, 45),
   },
   {
     title: "Biology",
